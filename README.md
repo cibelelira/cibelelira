@@ -3,7 +3,7 @@
 - 💻 Systems Analysis and Development at PUCMG
 - 👻 I'm currently specializing and studying to be a Full Stack Developer
 - 🧠 Full Stack
-- 🌍 Python, Java, C#, Javascript, HTML/CSS ...
+- 🌍 Python, Java, Javascript, HTML/CSS ...
 - 🩶 Science and Technology
 
 <div>
