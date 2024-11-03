@@ -6,14 +6,12 @@
 
 ###
 
-<h5 align="center">💻 Systems Analysis and Development at PUCMG<br>👻 I'm currently specializing and studying to be a Full Stack Developer<br>🧠 Full Stack</h5>
+<h5 align="center">💻 Systems Analysis and Development at PUCMG<br>👻 I'm currently specializing and studying to be a Front-End Developer (or a Back-End, who knows...)<br>🧠 Full Stack</h5>
 
 ###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
