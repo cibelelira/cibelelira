@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="center">💻 Systems Analysis and Development at PUCMG<br>👻 I'm currently specializing and studying to be a Front-End Developer (or a Back-End, who knows...)<br>🧠 Full Stack</h5>
+<h5 align="center">💻 Systems Analysis and Development at PUCMG<br>👻 I'm currently specializing and studying to be a Front-End Developer (or a Back-End, who knows...)<br></h5>
 
 ###
 
