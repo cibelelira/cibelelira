@@ -7,7 +7,6 @@
 ###
 
 <h5 align="center">💻 Systems Analysis and Development PUCMG<br>
-                   💻 Software Engineering UNINTER</h5><br>
 
 ###
 
