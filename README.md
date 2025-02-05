@@ -1,4 +1,4 @@
 <div align="center">
+    <img src="./assets/introduction.svg"/>
     <img src="./metrics/metrics.svg"/>
-  <img src="./assets/introduction.svg"/>
 </div>
