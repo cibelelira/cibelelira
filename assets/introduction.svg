@@ -8,11 +8,14 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                     <section>
-                        <div class="field" style="display: flex; flex-direction: column; text-align: left">
-                            <h5>➜ ꒰ Hello there! ♡ ♥︎</h5> <br/>
-                            exemplo <br/>
-                            exemplo <br/> 
-                            exemplo <br/>
+                        <div class="field" style="display: flex; flex-direction: column; text-align: center">
+                            <h5>Hello World!!</h5> <br/>
+                            Meu nome é Cibele Lira, sou estudante de<br/>
+                            Análise e Desenvolvimento de Sistemas na <br/> 
+                            PUCMG. Atualmente estou aprofundando meus <br/>
+                            conhecimentos em Java. Sinta-se livre para <br/>
+                            seguir e interagir!! <br/> 
+                            ˖ ݁ 𓎢𓎟𓎡 ◞ † ◟ 𓎢𓎟𓎡 ݁ ˖ <br/>
                         </div>
                     </section>
             </section>
