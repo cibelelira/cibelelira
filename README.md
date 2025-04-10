@@ -6,7 +6,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
-<img align="right" width="390" src=https://66.media.tumblr.com/663c5acc2ea7ccbfcfe052dc353a8c99/tumblr_pssauiiOFH1ugdbgro1_250.gif>
+<img align="right" width="390" src=https://i.imgur.com/0RXqfwC.gif>
 </div>
 
 <img align="right" width="390" src="./assets/introduction.svg"> 
