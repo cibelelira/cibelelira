@@ -6,7 +6,7 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
-<img align="right" width="390" src=https://i.imgur.com/0RXqfwC.gif>
+<img align="right" width="390" src=https://media.tenor.com/VPr_XzUwJS0AAAAj/sanrio.gif>
 </div>
 
 <img align="right" width="390" src="./assets/introduction.svg"> 
